@@ -1,0 +1,53 @@
+html,body{
+	max-height: 100%;
+}
+body {
+
+	margin: 0 auto;
+	text-align: center;
+	background-color: black;
+}
+
+.StworekShow {
+	position: absolute;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	bottom: 5vh;
+	right: 45vw;
+}
+.stworek1 {
+
+	height: 70vh;
+
+  
+  
+}
+#oczka  {
+
+}
+.buttons {
+	
+}
+
+
+#b{
+	float: left;
+	background: #f00;
+	margin-right: -200px;
+	width: 200px;
+	min-height: 300px;
+}
+#b ul{
+	margin: 0;
+	padding: 5px;
+	list-style: none;
+}
+#b ul li{
+	margin:0;
+	padding: 0;
+}
+#c{
+	margin-left: 200px;
+	background: #00f;
+}
